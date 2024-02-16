@@ -11,10 +11,10 @@ import net.minecraft.registry.Registry;
 import net.minecraft.util.Identifier;
 
 public class ModItems {
-    public static final Item SILICA_CRUCIBLE = registerItem("silica_crucible", new Item(new FabricItemSettings()));
+    public static final Item QUARTZ_CRUCIBLE = registerItem("quartz_crucible", new Item(new FabricItemSettings()));
 
     private static void addItemsToIngredientsTab(FabricItemGroupEntries entries) {
-        entries.add(SILICA_CRUCIBLE);
+        entries.add(QUARTZ_CRUCIBLE);
     }
     private static Item registerItem(String name, Item item) {
         return Registry.register(Registries.ITEM, new Identifier(Vitrification.MOD_ID, name), item);

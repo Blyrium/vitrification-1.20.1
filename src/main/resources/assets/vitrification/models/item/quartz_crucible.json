@@ -1,6 +1,6 @@
 {
   "parent": "item/generated",
   "textures": {
-    "layer0": "vitrification:item/silica_crucible"
+    "layer0": "vitrification:item/quartz_crucible"
   }
 }
