@@ -12,11 +12,9 @@ import net.minecraft.util.Identifier;
 
 public class ModItems {
     public static final Item SILICA_CRUCIBLE = registerItem("silica_crucible", new Item(new FabricItemSettings()));
-    public static final Item SILICA_SAND = registerItem("silica_sand", new Item(new FabricItemSettings()));
 
     private static void addItemsToIngredientsTab(FabricItemGroupEntries entries) {
         entries.add(SILICA_CRUCIBLE);
-        entries.add(SILICA_SAND);
     }
     private static Item registerItem(String name, Item item) {
         return Registry.register(Registries.ITEM, new Identifier(Vitrification.MOD_ID, name), item);
