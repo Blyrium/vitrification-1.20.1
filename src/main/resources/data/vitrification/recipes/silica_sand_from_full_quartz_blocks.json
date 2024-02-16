@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "tag": "vitrification:full_quartz_blocks"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "vitrification:silica_sand"
+  }
+}

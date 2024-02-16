@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "###"
+  ],
+  "key": {
+    "#": {
+      "tag": "vitrification:silica"
+    }
+  },
+  "result": {
+    "item": "vitrification:silica_crucible"
+  }
+}
