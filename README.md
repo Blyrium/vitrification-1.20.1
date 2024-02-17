@@ -22,6 +22,28 @@ And voilà! (You'll notice it grants a bit more XP than smelting Sand into Glass
 
 ![1 Quartz block gives 4 Quartz](https://cdn.modrinth.com/data/GoXq0Lhf/images/93b26fd3dd8ea7ba86330626f9cb3cfad1208e9f.png) ![1 Quartz stairs/slab gives 2 Quartz](https://cdn.modrinth.com/data/GoXq0Lhf/images/804ca314643e45784292a3b22ba6ca6a8f205246.png)
 
+## Amethyst is Quartz
+<details>
+<summary>Spoiler</summary>
+And therefore, you should be able to get Glass from it. Purple Glass!
+
+![3 Amethyst Shards in a row give 1 Amethyst Crucible](https://cdn.modrinth.com/data/GoXq0Lhf/images/a2d28c9aebe321c7dacf824d7ff0e7e88a93f49b.png) ![Smelting Amethyst Crucibles give you Purple Glass](https://cdn.modrinth.com/data/GoXq0Lhf/images/30782a26f033f65544c3ebfd9ad35157f03d96d0.png)
+
+But if you'd like, you can also mix and match Amethyst Shards with Quartz. Using 2 Amethyst Shards with 1 Quartz will allow you to create Magenta Glass:
+
+![2 Amethyst Shards + 1 Quartz = 1 Magenta Crucible](https://cdn.modrinth.com/data/GoXq0Lhf/images/3afc6fafeb1ceb62529e6b2433eb031c75f58a1e.png) ![Smelting Magenta Crucibles gives you Magenta Glass](https://cdn.modrinth.com/data/GoXq0Lhf/images/42d99e69fdaf196dc5be057dd0c4348f5662ed65.png)
+
+Whereas using 2 Quartz with 1 Amethyst Shard will allow you to create Pink Glass:
+
+![2 Quartz + 1 Amethyst Shard = 1 Pink Crucible](https://cdn.modrinth.com/data/GoXq0Lhf/images/4eb59bb80015dc3042ec43ec529b256356259561.png) ![Smelting Pink Crucibles will create Pink Glass](https://cdn.modrinth.com/data/GoXq0Lhf/images/8b430707c9d9224b1b457dc35f2ec0a11b95531e.png)
+
+## Break Amethyst Blocks into Amethyst Shards
+
+You don't need to place Amethyst Blocks down to break them with your pickaxe anymore:
+
+![1 Amethyst Block = 4 Amethyst Shards](https://cdn.modrinth.com/data/GoXq0Lhf/images/ba9d122fd85d2ab95442d8a40b2ec009607487b1.png)
+</details>
+
 ## Turn Soul Sand into Tinted Glass
 
 Soul Sand _is_ sand, isn't it? So we should be able to get some kind of glass out of it! Since Soul Sand is an edgy version of Sand, you should be able to smelt it into the edgy version of Glass: Tinted Glass.
