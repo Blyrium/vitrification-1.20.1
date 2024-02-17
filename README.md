@@ -31,11 +31,11 @@ And therefore, you should be able to get Glass from it. Purple Glass!
 
 But if you'd like, you can also mix and match Amethyst Shards with Quartz. Using 2 Amethyst Shards with 1 Quartz will allow you to create Magenta Glass:
 
-![2 Amethyst Shards + 1 Quartz = 1 Magenta Crucible](https://cdn.modrinth.com/data/GoXq0Lhf/images/3afc6fafeb1ceb62529e6b2433eb031c75f58a1e.png) ![Smelting Magenta Crucibles gives you Magenta Glass](https://cdn.modrinth.com/data/GoXq0Lhf/images/42d99e69fdaf196dc5be057dd0c4348f5662ed65.png)
+![2 Amethyst Shards + 1 Quartz = 1 Magenta Crucible](https://cdn.modrinth.com/data/GoXq0Lhf/images/100969963a8239bc3fe47aa06665af3f141dcf22.png) ![Smelting Magenta Crucibles gives you Magenta Glass](https://cdn.modrinth.com/data/GoXq0Lhf/images/66454873fe8c0fa86186c3aa83b4c636f3fb742d.png)
 
 Whereas using 2 Quartz with 1 Amethyst Shard will allow you to create Pink Glass:
 
-![2 Quartz + 1 Amethyst Shard = 1 Pink Crucible](https://cdn.modrinth.com/data/GoXq0Lhf/images/4eb59bb80015dc3042ec43ec529b256356259561.png) ![Smelting Pink Crucibles will create Pink Glass](https://cdn.modrinth.com/data/GoXq0Lhf/images/8b430707c9d9224b1b457dc35f2ec0a11b95531e.png)
+![2 Quartz + 1 Amethyst Shard = 1 Pink Crucible](https://cdn.modrinth.com/data/GoXq0Lhf/images/b73c4338354d8dae521aa20feddd6e76000bc786.png) ![Smelting Pink Crucibles will create Pink Glass](https://cdn.modrinth.com/data/GoXq0Lhf/images/31f260e471b08b2f49eb27424aef9729032554cd.png)
 
 ## Break Amethyst Blocks into Amethyst Shards
 
