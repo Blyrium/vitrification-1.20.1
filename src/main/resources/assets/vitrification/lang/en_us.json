@@ -1,5 +1,8 @@
 {
   "item.vitrification.quartz_crucible": "Quartz Crucible",
+  "item.vitrification.amethyst_crucible": "Amethyst Crucible",
+  "item.vitrification.magenta_crucible": "Magenta Crucible",
+  "item.vitrification.pink_crucible": "Pink Crucible",
   "tag.vitrification.full_quartz_blocks": "Full Quartz Blocks",
   "tag.vitrification.half_quartz_blocks": "Half Quartz Blocks"
 }

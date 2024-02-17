@@ -12,9 +12,15 @@ import net.minecraft.util.Identifier;
 
 public class ModItems {
     public static final Item QUARTZ_CRUCIBLE = registerItem("quartz_crucible", new Item(new FabricItemSettings()));
+    public static final Item AMETHYST_CRUCIBLE = registerItem("amethyst_crucible", new Item(new FabricItemSettings()));
+    public static final Item MAGENTA_CRUCIBLE = registerItem("magenta_crucible", new Item(new FabricItemSettings()));
+    public static final Item PINK_CRUCIBLE = registerItem("pink_crucible", new Item(new FabricItemSettings()));
 
     private static void addItemsToIngredientsTab(FabricItemGroupEntries entries) {
         entries.add(QUARTZ_CRUCIBLE);
+        entries.add(AMETHYST_CRUCIBLE);
+        entries.add(MAGENTA_CRUCIBLE);
+        entries.add(PINK_CRUCIBLE);
     }
     private static Item registerItem(String name, Item item) {
         return Registry.register(Registries.ITEM, new Identifier(Vitrification.MOD_ID, name), item);
