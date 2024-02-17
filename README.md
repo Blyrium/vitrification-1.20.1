@@ -2,7 +2,7 @@
 
 If you're like me and hate defacing the scenery just to get sand, why don't you use quartz instead?
 
-## Create Sand from Quartz
+## Create Glass from Quartz
 
 **Step 1.** Get Quartz
 
